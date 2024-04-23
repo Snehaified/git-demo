@@ -4,5 +4,8 @@ public class helloAlex {
         System.out.println("Feature 1 wants to merge");
         System.out.println("rebase");
         System.out.println("rebase2");
+        System.out.println("rebase2");
+        System.out.println("rebase2");
+        System.out.println("rebase2");
     }
 }
